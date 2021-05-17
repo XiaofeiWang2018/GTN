@@ -10,7 +10,7 @@ Warning: this work is currently in submission for NIPS 2017.
 ***Enviriment***
 
     **install ubuntu**
-
+sdv
         when boot with u disk, select uefi, for this result in able to install teamviewer
         part the disk yourself:
         1,logic, swap, 32g
